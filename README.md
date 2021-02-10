@@ -6,7 +6,7 @@ En el capitulo cero encontraras links de referencias, conceptos basicos, tutoria
 
 ¿Listo? ¡Vamos!
 
-¿Que son "Kubernetes"?
+# ¿Que son "Kubernetes"?
 
 Kubernetes es un motor de orquestación de contenedores de código abierto para automatizar la implementación, el escalado y la administración de aplicaciones en contenedores.
 
